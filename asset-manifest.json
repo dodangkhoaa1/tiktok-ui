@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dodangkhoaa1.github.io/tiktok-ui/static/css/main.0e7e9d6d.css",
-    "main.js": "/dodangkhoaa1.github.io/tiktok-ui/static/js/main.0b34616f.js",
-    "static/js/453.f781e9ad.chunk.js": "/dodangkhoaa1.github.io/tiktok-ui/static/js/453.f781e9ad.chunk.js",
-    "static/media/IBMPlexSans-SemiBold.ttf": "/dodangkhoaa1.github.io/tiktok-ui/static/media/IBMPlexSans-SemiBold.f2e690b59fb90d236c08.ttf",
-    "static/media/IBMPlexSans-Regular.ttf": "/dodangkhoaa1.github.io/tiktok-ui/static/media/IBMPlexSans-Regular.d77342fdcbcb6b3ce1b5.ttf",
-    "static/media/IBMPlexSans-Bold.ttf": "/dodangkhoaa1.github.io/tiktok-ui/static/media/IBMPlexSans-Bold.e933eba4e2fcc3d71b31.ttf",
-    "static/media/logo.svg": "/dodangkhoaa1.github.io/tiktok-ui/static/media/logo.008cce5a259751ed0e17ff0e93d5a51b.svg",
-    "index.html": "/dodangkhoaa1.github.io/tiktok-ui/index.html",
-    "main.0e7e9d6d.css.map": "/dodangkhoaa1.github.io/tiktok-ui/static/css/main.0e7e9d6d.css.map",
-    "main.0b34616f.js.map": "/dodangkhoaa1.github.io/tiktok-ui/static/js/main.0b34616f.js.map",
-    "453.f781e9ad.chunk.js.map": "/dodangkhoaa1.github.io/tiktok-ui/static/js/453.f781e9ad.chunk.js.map"
+    "main.css": "/tiktok-ui/static/css/main.31c42c23.css",
+    "main.js": "/tiktok-ui/static/js/main.bece13d6.js",
+    "static/js/453.f781e9ad.chunk.js": "/tiktok-ui/static/js/453.f781e9ad.chunk.js",
+    "static/media/IBMPlexSans-SemiBold.ttf": "/tiktok-ui/static/media/IBMPlexSans-SemiBold.f2e690b59fb90d236c08.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "/tiktok-ui/static/media/IBMPlexSans-Regular.d77342fdcbcb6b3ce1b5.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/tiktok-ui/static/media/IBMPlexSans-Bold.e933eba4e2fcc3d71b31.ttf",
+    "static/media/logo.svg": "/tiktok-ui/static/media/logo.008cce5a259751ed0e17ff0e93d5a51b.svg",
+    "index.html": "/tiktok-ui/index.html",
+    "main.31c42c23.css.map": "/tiktok-ui/static/css/main.31c42c23.css.map",
+    "main.bece13d6.js.map": "/tiktok-ui/static/js/main.bece13d6.js.map",
+    "453.f781e9ad.chunk.js.map": "/tiktok-ui/static/js/453.f781e9ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e7e9d6d.css",
-    "static/js/main.0b34616f.js"
+    "static/css/main.31c42c23.css",
+    "static/js/main.bece13d6.js"
   ]
 }
